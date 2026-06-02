@@ -71,3 +71,31 @@ export default defineConfig([
   },
 ])
 ```
+## 📸 Project Screenshots
+
+### Home
+![home](./screenshots/home.png)
+
+### Login
+![login](./screenshots/login.png)
+
+### Register
+![register](./screenshots/register.png)
+
+### Cart
+![cart](./screenshots/cart.png)
+
+### Details
+![details](./screenshots/details.png)
+
+### Search
+![search](./screenshots/Search.png)
+
+### Sections
+![sections](./screenshots/Sections.png)
+
+### Payment
+![payment](./screenshots/Payment.png)
+
+### Favourite
+![favourite](./screenshots/Favourite.png)
